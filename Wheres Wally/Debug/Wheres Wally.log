@@ -1,0 +1,11 @@
+﻿  main.cpp
+c:\users\nick\google drive\year 2\object orientated programming\assignment\wheres wally\wheres wally\header.h(149): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\nick\google drive\year 2\object orientated programming\assignment\wheres wally\wheres wally\main.cpp(155): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\nick\google drive\year 2\object orientated programming\assignment\wheres wally\wheres wally\main.cpp(178): warning C4018: '<': signed/unsigned mismatch
+c:\users\nick\google drive\year 2\object orientated programming\assignment\wheres wally\wheres wally\main.cpp(192): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\nick\google drive\year 2\object orientated programming\assignment\wheres wally\wheres wally\main.cpp(193): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\nick\google drive\year 2\object orientated programming\assignment\wheres wally\wheres wally\main.cpp(194): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\nick\google drive\year 2\object orientated programming\assignment\wheres wally\wheres wally\main.cpp(196): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\nick\google drive\year 2\object orientated programming\assignment\wheres wally\wheres wally\main.cpp(253): warning C4101: 'j': unreferenced local variable
+  Wheres Wally.vcxproj -> C:\Users\Nick\Google Drive\Year 2\Object Orientated Programming\Assignment\Wheres Wally\Debug\Wheres Wally.exe
+  Wheres Wally.vcxproj -> C:\Users\Nick\Google Drive\Year 2\Object Orientated Programming\Assignment\Wheres Wally\Debug\Wheres Wally.pdb (Partial PDB)
